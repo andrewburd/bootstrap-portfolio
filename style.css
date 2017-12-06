@@ -1,0 +1,136 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding:20px;
+    margin-left:100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    background-image: url("assets/images/Sports.png");
+}
+
+.navbar-brand{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: white;
+    height:100px;
+    width: 230px;
+    text-align:center;
+    vertical-align:;
+    line-height: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.nav-navbar-nav-navbar-right{
+    float: right;
+    text-align:center;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    padding-top: 35px;
+    padding-right: 20px;    
+}
+
+.nav-navbar-nav-navbar-right li{
+    display: inline; 
+    vertical-align: middle
+}
+
+h2{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    padding-left: 35px;
+}
+
+h6{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    padding-left: 35px;
+}
+
+
+.navbar{
+    border-style: solid;
+    border-color: #cccccc;
+    background-color: #ffffff;
+    height: 100px;
+}
+
+.navbar a{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#777777;
+    font-size: 16px;
+    display: inline-block;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.col-md-4{
+    float:right;
+    width: 270px;
+    margin: 10px;
+    height: 310px;
+    background-color: #ffffff;
+    align-content: center;
+}
+#showcase{
+    margin: 10px;
+    float: left;
+    width: 650px;
+    background-color: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.footer{
+    background-color: #666666;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right:0; 
+    color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+}
+
+
+#portrait{
+    width:200px;
+    height:300px;
+    float: left;
+    padding-right:20px;
+}
+
+#connect{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-left: 20px;
+    color: #4aaaa5;
+}
+
+#smallpic{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    height:60px;
+    width: 60px;
+    justify-content: center;
+}    
+
+.menu {
+  list-style-type: none outside;
+  padding: 0; margin: 0;
+  text-align: center;
+}
+.menu li { display: inline; }
+.menu a {
+  display: inline-block;
+}
+.menu a:hover, .menu a:focus {
+  background-color: yellow;
+}
+
